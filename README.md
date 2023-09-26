@@ -22,13 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Install / Enable IIS in Windows WITH
-CGI and Common HTTP Features
-
-- PHP Manager for IIS
+- Web Server: Apache or IIS.
+- PHP Versions:
 - Rewrite Module 
-- PHP 7.3.8 
-- VC_redist.x86.exe and MySQL 5.5.62 HeidiSQL
+- osTicket Version 1.15+
+-MySQL Database: 5.5+
 
 <h2>Installation Steps</h2>
 
